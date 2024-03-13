@@ -1,0 +1,19 @@
+	Welcome Webcode Reatil
+
+ Bill Number : 9900
+ Customer Name : mayu
+ Phone Number : 956628585233
+=====================================
+ Products		QTY		Price
+=====================================
+ Bath Soap		2		80
+ Face Wash		1		60
+ Food Oil		1		180
+ Thumps_up		3		135
+--------------------------------------
+ Cosmatic Tax			Rs. 7.0
+ Grocery Tax			Rs. 18.0
+ Cold Drinks Tax			Rs. 6.75
+--------------------------------------
+ Total Bill : 			 Rs. 486.75
+--------------------------------------

@@ -1,0 +1,20 @@
+	Welcome Webcode Reatil
+
+ Bill Number : 2246
+ Customer Name : rutu 
+ Phone Number : 45545646
+=====================================
+ Products		QTY		Price
+=====================================
+ Bath Soap		1		40
+ Spray		1		180
+ Food Oil		1		180
+ Wheat		2		480
+ Limca		1		40
+--------------------------------------
+ Cosmatic Tax			Rs. 11.0
+ Grocery Tax			Rs. 66.0
+ Cold Drinks Tax			Rs. 2.0
+--------------------------------------
+ Total Bill : 			 Rs. 999.0
+--------------------------------------

@@ -1,0 +1,14 @@
+	Welcome Webcode Reatil
+
+ Bill Number : 5435
+ Customer Name : wer
+ Phone Number : 345
+=====================================
+ Products		QTY		Price
+=====================================
+ Bath Soap		5		200
+--------------------------------------
+ Cosmatic Tax			Rs. 10.0
+--------------------------------------
+ Total Bill : 			 Rs. 210.0
+--------------------------------------

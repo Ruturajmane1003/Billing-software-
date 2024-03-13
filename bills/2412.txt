@@ -1,0 +1,22 @@
+	Welcome Webcode Reatil
+
+ Bill Number : 2412
+ Customer Name : mayuri dhengale
+ Phone Number : 7058342076
+=====================================
+ Products		QTY		Price
+=====================================
+ Bath Soap		1		40
+ Face Wash		2		120
+ Hair gell		1		140
+ Food Oil		2		360
+ Wheat		2		480
+ Frooti		1		50
+ Limca		1		40
+--------------------------------------
+ Cosmatic Tax			Rs. 15.0
+ Grocery Tax			Rs. 84.0
+ Cold Drinks Tax			Rs. 4.5
+--------------------------------------
+ Total Bill : 			 Rs. 1333.5
+--------------------------------------

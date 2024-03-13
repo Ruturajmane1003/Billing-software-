@@ -1,0 +1,18 @@
+	Welcome Webcode Reatil
+
+ Bill Number : 8846
+ Customer Name : mayu
+ Phone Number : 920931130
+=====================================
+ Products		QTY		Price
+=====================================
+ Bath Soap		1		40
+ Food Oil		2		360
+ Frooti		3		150
+--------------------------------------
+ Cosmatic Tax			Rs. 2.0
+ Grocery Tax			Rs. 36.0
+ Cold Drinks Tax			Rs. 7.5
+--------------------------------------
+ Total Bill : 			 Rs. 595.5
+--------------------------------------

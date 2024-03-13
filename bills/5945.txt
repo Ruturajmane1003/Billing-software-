@@ -1,0 +1,19 @@
+	Welcome Webcode Reatil
+
+ Bill Number : 5945
+ Customer Name : rutu
+ Phone Number : 2345678
+=====================================
+ Products		QTY		Price
+=====================================
+ Bath Soap		3		120
+ Face Cream		3		360
+ Wheat		2		480
+ Thumps_up		3		135
+--------------------------------------
+ Cosmatic Tax			Rs. 24.0
+ Grocery Tax			Rs. 48.0
+ Cold Drinks Tax			Rs. 6.75
+--------------------------------------
+ Total Bill : 			 Rs. 1173.75
+--------------------------------------
